@@ -1,6 +1,6 @@
 {
-    "name": "dico_app",
-    "short_name": "dico_app",
+    "name": "app_seekest",
+    "short_name": "app_seekest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
